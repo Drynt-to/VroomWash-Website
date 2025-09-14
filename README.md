@@ -1,4 +1,4 @@
-# OOP & Database Project - Cooperative Data Management Application
+# Web Framework and Deployment
 
 This is a desktop application project built to fulfill the coursework for Web Framework and Deployment. The application functions as a website for a carwash company called VroomWash.
 
