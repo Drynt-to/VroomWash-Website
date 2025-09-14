@@ -1,6 +1,6 @@
 # Web Framework and Deployment
 
-This is a desktop application project built to fulfill the coursework for Web Framework and Deployment. The application functions as a website for a carwash company called VroomWash.
+This is a desktop website project built to fulfill the coursework for Web Framework and Deployment. The application functions as a website for a carwash company called VroomWash.
 
 ---
 
